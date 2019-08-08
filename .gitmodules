@@ -1,0 +1,13 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/summershrimp/opendeck-linux
+	branch = nano-4.14-exp
+[submodule "uboot"]
+	path = uboot
+	url = https://github.com/summershrimp/opendeck-uboot
+[submodule "gui"]
+	path = gui
+	url = https://github.com/summershrimp/opendeck-gui
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/summershrimp/opendeck-simulator
